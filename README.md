@@ -9,7 +9,7 @@
 
 ### 🚀 Sobre mim
 - 🌱 Atualmente aprendendo: **JavaScript, HTML, CSS**
-- 👯 Sempre aberto a colaborar em: **projetos open source e ideias inovadoras**
+- 👯 Sempre aberta a colaborar em: **projetos open source e ideias inovadoras**
 - 💬 Me pergunte sobre: **JavaScript!**
 
 ---
