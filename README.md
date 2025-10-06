@@ -1,5 +1,11 @@
+
 <h1 align="center">Olá 👋, eu sou Yasmin</h1>
 <h3 align="center">💻 Desenvolvedora apaixonada por tecnologia, código limpo e comidaaa 🍔</h3>
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/4C_6k0nQYCsAAAAd/princess-mononoke-running.gif" alt="Princess Mononoke Running" width="500"/>
+</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;¡Bienvenido+a+mi+perfil!;ようこそ!;欢迎来到我的主页!;Добро+пожаловать!" alt="Typing SVG" />
