@@ -2,6 +2,9 @@
 <h1 align="center">Olá 👋, eu sou Yasmin</h1>
 <h3 align="center">💻 Desenvolvedora apaixonada por tecnologia e código limpo</h3>
 
+<h3>Jogue o meu jogo ORIGINAL</h3>
+<h2>https://pinguim-knockout.onrender.com/</h2>
+
 <p align="center">
   <img src="https://media1.tenor.com/m/4C_6k0nQYCsAAAAd/princess-mononoke-running.gif" alt="Princess Mononoke Running" width="500"/>
 </p>
